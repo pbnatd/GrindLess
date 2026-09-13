@@ -1,0 +1,95 @@
+{
+  "format": "GOOD",
+  "version": 3,
+  "source": "GrindLessMavuikaParityFixture",
+  "characters": [
+    {
+      "key": "Mavuika",
+      "level": 90,
+      "constellation": 2,
+      "ascension": 6,
+      "talent": {"auto": 6, "skill": 10, "burst": 10}
+    }
+  ],
+  "weapons": [
+    {
+      "key": "WolfsGravestone",
+      "level": 90,
+      "ascension": 6,
+      "refinement": 1,
+      "location": "Mavuika",
+      "lock": true
+    }
+  ],
+  "artifacts": [
+    {
+      "setKey": "ObsidianCodex", "slotKey": "flower", "level": 0,
+      "rarity": 5, "mainStatKey": "hp", "location": "", "lock": true,
+      "totalRolls": 4, "astralMark": true, "elixirCrafted": false,
+      "substats": [
+        {"key": "critRate_", "value": 3.1, "initialValue": 3.1},
+        {"key": "critDMG_", "value": 6.2, "initialValue": 6.2},
+        {"key": "eleMas", "value": 23, "initialValue": 23},
+        {"key": "atk_", "value": 5.8, "initialValue": 5.8}
+      ]
+    },
+    {
+      "setKey": "ObsidianCodex", "slotKey": "plume", "level": 0,
+      "rarity": 5, "mainStatKey": "atk", "location": "", "lock": true,
+      "totalRolls": 4,
+      "substats": [
+        {"key": "critRate_", "value": 3.1}, {"key": "critDMG_", "value": 6.2},
+        {"key": "eleMas", "value": 21}, {"key": "atk_", "value": 5.3}
+      ]
+    },
+    {
+      "setKey": "ObsidianCodex", "slotKey": "sands", "level": 0,
+      "rarity": 5, "mainStatKey": "atk_", "location": "", "lock": true,
+      "totalRolls": 3,
+      "substats": [
+        {"key": "critRate_", "value": 3.1, "initialValue": 3.1},
+        {"key": "critDMG_", "value": 6.2, "initialValue": 6.2},
+        {"key": "eleMas", "value": 21, "initialValue": 21}
+      ],
+      "unactivatedSubstats": [
+        {"key": "enerRech_", "value": 5.2, "initialValue": 5.2}
+      ]
+    },
+    {
+      "setKey": "ObsidianCodex", "slotKey": "sands", "level": 0,
+      "rarity": 5, "mainStatKey": "eleMas", "location": "", "lock": false,
+      "totalRolls": 4,
+      "substats": [
+        {"key": "critRate_", "value": 3.1}, {"key": "critDMG_", "value": 6.2},
+        {"key": "atk_", "value": 5.8}, {"key": "enerRech_", "value": 5.2}
+      ]
+    },
+    {
+      "setKey": "ObsidianCodex", "slotKey": "goblet", "level": 0,
+      "rarity": 5, "mainStatKey": "pyro_dmg_", "location": "", "lock": true,
+      "totalRolls": 4,
+      "substats": [
+        {"key": "critRate_", "value": 3.1}, {"key": "critDMG_", "value": 6.2},
+        {"key": "eleMas", "value": 23}, {"key": "atk_", "value": 5.8}
+      ]
+    },
+    {
+      "setKey": "ObsidianCodex", "slotKey": "circlet", "level": 0,
+      "rarity": 5, "mainStatKey": "critRate_", "location": "", "lock": true,
+      "totalRolls": 4,
+      "substats": [
+        {"key": "critDMG_", "value": 6.2}, {"key": "eleMas", "value": 23},
+        {"key": "atk_", "value": 5.8}, {"key": "enerRech_", "value": 5.2}
+      ]
+    },
+    {
+      "setKey": "ObsidianCodex", "slotKey": "circlet", "level": 0,
+      "rarity": 5, "mainStatKey": "critDMG_", "location": "", "lock": false,
+      "totalRolls": 4,
+      "substats": [
+        {"key": "critRate_", "value": 3.1}, {"key": "eleMas", "value": 21},
+        {"key": "atk_", "value": 5.3}, {"key": "enerRech_", "value": 5.8}
+      ]
+    }
+  ]
+}

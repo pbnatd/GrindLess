@@ -1,0 +1,2112 @@
+{
+  "schema_version": 2,
+  "game_version": "7.0",
+  "retrieved_at": "2026-09-10",
+  "target_rule": "all currently playable limited five-star characters, plus the four previously supported starter targets",
+  "primary_source": "https://keqingmains.com/",
+  "profiles": [
+    {
+      "key": "KamisatoAyaka",
+      "target_kind": "limited",
+      "role": "Freeze / Mono Cryo on-field DPS",
+      "primary_set": "BlizzardStrayer",
+      "secondary_set": "EmblemOfSeveredFate",
+      "main_stats": {
+        "sands": [
+          "atk_pct"
+        ],
+        "goblet": [
+          "cryo_dmg",
+          "atk_pct"
+        ],
+        "circlet": [
+          "crit_dmg",
+          "crit_rate",
+          "atk_pct"
+        ]
+      },
+      "substat_priority": [
+        "energy_recharge",
+        "crit_dmg",
+        "crit_rate",
+        "atk_pct"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [
+        "На незамораживаемых врагах ценность 4pc Blizzard Strayer и приоритет шанса крита меняются."
+      ],
+      "source_url": "https://keqingmains.com/ayaka/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Venti",
+      "target_kind": "limited",
+      "role": "Anemo grouping support / reaction DPS",
+      "primary_set": "ViridescentVenerer",
+      "secondary_set": "EmblemOfSeveredFate",
+      "main_stats": {
+        "sands": [
+          "elemental_mastery",
+          "energy_recharge",
+          "atk_pct"
+        ],
+        "goblet": [
+          "elemental_mastery",
+          "anemo_dmg"
+        ],
+        "circlet": [
+          "elemental_mastery",
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "energy_recharge",
+        "elemental_mastery",
+        "crit_rate",
+        "crit_dmg",
+        "atk_pct"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [
+        "EM-сборка и CRIT-сборка — разные режимы; финальный выбор зависит от команды и уровня персонажа."
+      ],
+      "source_url": "https://keqingmains.com/venti/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Xiao",
+      "target_kind": "limited",
+      "role": "on-field Plunging Attack DPS",
+      "primary_set": "VermillionHereafter",
+      "secondary_set": "MarechausseeHunter",
+      "main_stats": {
+        "sands": [
+          "atk_pct",
+          "energy_recharge"
+        ],
+        "goblet": [
+          "anemo_dmg",
+          "atk_pct"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "crit_rate",
+        "crit_dmg",
+        "atk_pct",
+        "energy_recharge"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/xiao/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Klee",
+      "target_kind": "limited",
+      "role": "on-field Pyro DPS",
+      "primary_set": "CrimsonWitchOfFlames",
+      "secondary_set": "Lavawalker",
+      "main_stats": {
+        "sands": [
+          "atk_pct",
+          "elemental_mastery"
+        ],
+        "goblet": [
+          "pyro_dmg",
+          "atk_pct"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "crit_rate",
+        "crit_dmg",
+        "atk_pct",
+        "elemental_mastery"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [
+        "Lavawalker допустим только при устойчивой Pyro-ауре; реакционные команды предпочитают Crimson Witch."
+      ],
+      "source_url": "https://keqingmains.com/klee/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Zhongli",
+      "target_kind": "limited",
+      "role": "shield support / resistance shred",
+      "primary_set": "TenacityOfTheMillelith",
+      "secondary_set": "ArchaicPetra",
+      "main_stats": {
+        "sands": [
+          "hp_pct",
+          "energy_recharge"
+        ],
+        "goblet": [
+          "hp_pct",
+          "geo_dmg"
+        ],
+        "circlet": [
+          "hp_pct",
+          "crit_rate"
+        ]
+      },
+      "substat_priority": [
+        "hp_pct",
+        "energy_recharge",
+        "crit_rate",
+        "crit_dmg"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [
+        "CRIT Rate нужен прежде всего с Favonius; Geo DMG относится к гибридной, а не максимальной щитовой сборке."
+      ],
+      "source_url": "https://keqingmains.com/zhongli/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Tartaglia",
+      "target_kind": "limited",
+      "role": "on-field Hydro enabler / DPS",
+      "primary_set": "NymphsDream",
+      "secondary_set": "HeartOfDepth",
+      "main_stats": {
+        "sands": [
+          "atk_pct",
+          "elemental_mastery"
+        ],
+        "goblet": [
+          "hydro_dmg"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "crit_rate",
+        "crit_dmg",
+        "atk_pct",
+        "elemental_mastery",
+        "energy_recharge"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/childe/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Ganyu",
+      "target_kind": "limited",
+      "role": "charged-shot Cryo DPS",
+      "primary_set": "WanderersTroupe",
+      "secondary_set": "BlizzardStrayer",
+      "main_stats": {
+        "sands": [
+          "atk_pct",
+          "elemental_mastery"
+        ],
+        "goblet": [
+          "cryo_dmg"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "crit_rate",
+        "crit_dmg",
+        "atk_pct",
+        "elemental_mastery",
+        "energy_recharge"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [
+        "Wanderer's Troupe — профиль Melt; Blizzard Strayer — отдельный Freeze-профиль с другой ценностью CRIT Rate."
+      ],
+      "source_url": "https://keqingmains.com/ganyu/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Albedo",
+      "target_kind": "limited",
+      "role": "off-field Geo DPS",
+      "primary_set": "HuskOfOpulentDreams",
+      "secondary_set": "GoldenTroupe",
+      "main_stats": {
+        "sands": [
+          "def_pct"
+        ],
+        "goblet": [
+          "geo_dmg",
+          "def_pct"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "crit_rate",
+        "crit_dmg",
+        "def_pct"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/albedo/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "HuTao",
+      "target_kind": "limited",
+      "role": "on-field Vaporize Pyro DPS",
+      "primary_set": "CrimsonWitchOfFlames",
+      "secondary_set": "ShimenawasReminiscence",
+      "main_stats": {
+        "sands": [
+          "hp_pct",
+          "elemental_mastery"
+        ],
+        "goblet": [
+          "pyro_dmg"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "crit_rate",
+        "crit_dmg",
+        "elemental_mastery",
+        "hp_pct"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/hutao/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Kazuha",
+      "target_kind": "limited",
+      "role": "Anemo buffer / grouping",
+      "primary_set": "ViridescentVenerer",
+      "secondary_set": "Instructor",
+      "main_stats": {
+        "sands": [
+          "elemental_mastery",
+          "energy_recharge"
+        ],
+        "goblet": [
+          "elemental_mastery"
+        ],
+        "circlet": [
+          "elemental_mastery"
+        ]
+      },
+      "substat_priority": [
+        "energy_recharge",
+        "elemental_mastery",
+        "crit_rate"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [
+        "CRIT Rate имеет практическую ценность с Favonius; ER проверяется по фактической ротации."
+      ],
+      "source_url": "https://keqingmains.com/kazuha/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Yoimiya",
+      "target_kind": "limited",
+      "role": "on-field Normal Attack Pyro DPS",
+      "primary_set": "ShimenawasReminiscence",
+      "secondary_set": "CrimsonWitchOfFlames",
+      "main_stats": {
+        "sands": [
+          "atk_pct",
+          "elemental_mastery"
+        ],
+        "goblet": [
+          "pyro_dmg"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "crit_rate",
+        "crit_dmg",
+        "atk_pct",
+        "elemental_mastery"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/yoimiya/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Eula",
+      "target_kind": "limited",
+      "role": "on-field Physical Burst DPS",
+      "primary_set": "PaleFlame",
+      "secondary_set": "BloodstainedChivalry",
+      "main_stats": {
+        "sands": [
+          "atk_pct",
+          "energy_recharge"
+        ],
+        "goblet": [
+          "physical_dmg"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "crit_rate",
+        "crit_dmg",
+        "energy_recharge",
+        "atk_pct"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/eula/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "RaidenShogun",
+      "target_kind": "limited",
+      "role": "Burst DPS / team battery",
+      "primary_set": "EmblemOfSeveredFate",
+      "secondary_set": "GildedDreams",
+      "main_stats": {
+        "sands": [
+          "energy_recharge",
+          "atk_pct"
+        ],
+        "goblet": [
+          "electro_dmg",
+          "atk_pct"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "energy_recharge",
+        "crit_rate",
+        "crit_dmg",
+        "atk_pct"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/raiden/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "SangonomiyaKokomi",
+      "target_kind": "limited",
+      "role": "healer / on-field Hydro driver",
+      "primary_set": "OceanHuedClam",
+      "secondary_set": "TenacityOfTheMillelith",
+      "main_stats": {
+        "sands": [
+          "hp_pct",
+          "energy_recharge"
+        ],
+        "goblet": [
+          "hydro_dmg",
+          "hp_pct"
+        ],
+        "circlet": [
+          "healing_bonus",
+          "hp_pct"
+        ]
+      },
+      "substat_priority": [
+        "energy_recharge",
+        "hp_pct",
+        "atk_pct"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [
+        "CRIT обычно не является полезной целью из-за пассивного штрафа Кокоми."
+      ],
+      "source_url": "https://keqingmains.com/kokomi/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "AratakiItto",
+      "target_kind": "limited",
+      "role": "on-field DEF-scaling Geo DPS",
+      "primary_set": "HuskOfOpulentDreams",
+      "secondary_set": "RetracingBolide",
+      "main_stats": {
+        "sands": [
+          "def_pct",
+          "energy_recharge"
+        ],
+        "goblet": [
+          "geo_dmg",
+          "def_pct"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "crit_rate",
+        "crit_dmg",
+        "def_pct",
+        "energy_recharge"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/itto/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "YaeMiko",
+      "target_kind": "limited",
+      "role": "off-field Electro Skill DPS",
+      "primary_set": "GoldenTroupe",
+      "secondary_set": "GildedDreams",
+      "main_stats": {
+        "sands": [
+          "atk_pct",
+          "elemental_mastery"
+        ],
+        "goblet": [
+          "electro_dmg",
+          "atk_pct"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "crit_rate",
+        "crit_dmg",
+        "atk_pct",
+        "elemental_mastery",
+        "energy_recharge"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/yae/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Yelan",
+      "target_kind": "limited",
+      "role": "off-field Hydro DPS / ramping buffer",
+      "primary_set": "EmblemOfSeveredFate",
+      "secondary_set": "NoblesseOblige",
+      "main_stats": {
+        "sands": [
+          "hp_pct",
+          "energy_recharge"
+        ],
+        "goblet": [
+          "hydro_dmg",
+          "hp_pct"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "energy_recharge",
+        "crit_rate",
+        "crit_dmg",
+        "hp_pct"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/yelan/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Shenhe",
+      "target_kind": "limited",
+      "role": "Cryo damage buffer",
+      "primary_set": "NoblesseOblige",
+      "secondary_set": "EmblemOfSeveredFate",
+      "main_stats": {
+        "sands": [
+          "atk_pct",
+          "energy_recharge"
+        ],
+        "goblet": [
+          "atk_pct"
+        ],
+        "circlet": [
+          "atk_pct",
+          "crit_rate"
+        ]
+      },
+      "substat_priority": [
+        "energy_recharge",
+        "atk_pct",
+        "crit_rate"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [
+        "CRIT Rate нужен преимущественно с Favonius; ATK и ER зависят от оружия и длины ротации."
+      ],
+      "source_url": "https://keqingmains.com/shenhe/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "KamisatoAyato",
+      "target_kind": "limited",
+      "role": "on-field Hydro Normal Attack DPS",
+      "primary_set": "HeartOfDepth",
+      "secondary_set": "NymphsDream",
+      "main_stats": {
+        "sands": [
+          "atk_pct"
+        ],
+        "goblet": [
+          "hydro_dmg"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "crit_rate",
+        "crit_dmg",
+        "atk_pct",
+        "energy_recharge"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/ayato/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Nilou",
+      "target_kind": "limited",
+      "role": "Bloom enabler / HP support",
+      "primary_set": "FlowerOfParadiseLost",
+      "secondary_set": "GildedDreams",
+      "additional_set_options": [
+        {
+          "option_id": "double_hp_2pc",
+          "label_ru": "2 предмета Tenacity of the Millelith + 2 предмета Vourukasha's Glow",
+          "requirements": [
+            {
+              "set_name": "TenacityOfTheMillelith",
+              "pieces": 2
+            },
+            {
+              "set_name": "VourukashasGlow",
+              "pieces": 2
+            }
+          ]
+        }
+      ],
+      "main_stats": {
+        "sands": [
+          "hp_pct",
+          "elemental_mastery"
+        ],
+        "goblet": [
+          "hp_pct",
+          "elemental_mastery"
+        ],
+        "circlet": [
+          "hp_pct",
+          "elemental_mastery"
+        ]
+      },
+      "substat_priority": [
+        "hp_pct",
+        "elemental_mastery",
+        "energy_recharge"
+      ],
+      "benchmarks": [
+        {
+          "stat": "hp_flat",
+          "target": 74444,
+          "unit": "flat_total",
+          "condition_ru": "верхняя граница бонуса пассивного таланта; не обязательный минимум",
+          "enforced": false
+        }
+      ],
+      "caveats_ru": [
+        "Для универсальной HP-сборки доступен проверяемый вариант 2pc Tenacity of the Millelith + 2pc Vourukasha's Glow; Flower of Paradise Lost остаётся вариантом для персонажа, который непосредственно запускает Bloom."
+      ],
+      "source_url": "https://keqingmains.com/nilou/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Cyno",
+      "target_kind": "limited",
+      "role": "on-field Aggravate / Quickbloom DPS",
+      "primary_set": "GildedDreams",
+      "secondary_set": "ThunderingFury",
+      "main_stats": {
+        "sands": [
+          "elemental_mastery",
+          "atk_pct"
+        ],
+        "goblet": [
+          "electro_dmg"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "crit_rate",
+        "crit_dmg",
+        "elemental_mastery",
+        "energy_recharge",
+        "atk_pct"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/cyno/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Nahida",
+      "target_kind": "limited",
+      "role": "Dendro reaction driver / support",
+      "primary_set": "DeepwoodMemories",
+      "secondary_set": "GildedDreams",
+      "main_stats": {
+        "sands": [
+          "elemental_mastery"
+        ],
+        "goblet": [
+          "elemental_mastery",
+          "dendro_dmg"
+        ],
+        "circlet": [
+          "elemental_mastery",
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "elemental_mastery",
+        "crit_rate",
+        "crit_dmg",
+        "energy_recharge"
+      ],
+      "benchmarks": [
+        {
+          "stat": "elemental_mastery",
+          "target": 1000,
+          "unit": "flat_total",
+          "condition_ru": "верхняя граница преобразования EM пассивного таланта; не универсальный обязательный минимум",
+          "enforced": false
+        }
+      ],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/nahida/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Wanderer",
+      "target_kind": "limited",
+      "role": "on-field Anemo Normal Attack DPS",
+      "primary_set": "DesertPavilionChronicle",
+      "secondary_set": "ShimenawasReminiscence",
+      "main_stats": {
+        "sands": [
+          "atk_pct"
+        ],
+        "goblet": [
+          "anemo_dmg",
+          "atk_pct"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "crit_rate",
+        "crit_dmg",
+        "atk_pct",
+        "energy_recharge"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/wanderer/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Alhaitham",
+      "target_kind": "limited",
+      "role": "on-field Spread / Quickbloom DPS",
+      "primary_set": "GildedDreams",
+      "secondary_set": "DeepwoodMemories",
+      "main_stats": {
+        "sands": [
+          "elemental_mastery"
+        ],
+        "goblet": [
+          "dendro_dmg",
+          "elemental_mastery"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "crit_rate",
+        "crit_dmg",
+        "elemental_mastery",
+        "energy_recharge"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/alhaitham/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Baizhu",
+      "target_kind": "limited",
+      "role": "Dendro healer / shield support",
+      "primary_set": "DeepwoodMemories",
+      "secondary_set": "OceanHuedClam",
+      "main_stats": {
+        "sands": [
+          "hp_pct",
+          "energy_recharge"
+        ],
+        "goblet": [
+          "hp_pct"
+        ],
+        "circlet": [
+          "hp_pct",
+          "healing_bonus"
+        ]
+      },
+      "substat_priority": [
+        "energy_recharge",
+        "hp_pct",
+        "hp_flat"
+      ],
+      "benchmarks": [
+        {
+          "stat": "hp_flat",
+          "target": 50000,
+          "unit": "flat_total",
+          "condition_ru": "верхняя граница реакционного бонуса пассивного таланта; достижимость зависит от ER",
+          "enforced": false
+        }
+      ],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/baizhu/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Lyney",
+      "target_kind": "limited",
+      "role": "on-field Pyro charged-shot DPS",
+      "primary_set": "MarechausseeHunter",
+      "secondary_set": "Lavawalker",
+      "main_stats": {
+        "sands": [
+          "atk_pct"
+        ],
+        "goblet": [
+          "pyro_dmg",
+          "atk_pct"
+        ],
+        "circlet": [
+          "crit_dmg",
+          "crit_rate"
+        ]
+      },
+      "substat_priority": [
+        "crit_dmg",
+        "crit_rate",
+        "atk_pct",
+        "energy_recharge"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/lyney/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Wriothesley",
+      "target_kind": "limited",
+      "role": "on-field Cryo Normal / Charged Attack DPS",
+      "primary_set": "MarechausseeHunter",
+      "secondary_set": "BlizzardStrayer",
+      "main_stats": {
+        "sands": [
+          "atk_pct",
+          "elemental_mastery"
+        ],
+        "goblet": [
+          "cryo_dmg",
+          "atk_pct"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "crit_rate",
+        "crit_dmg",
+        "atk_pct",
+        "elemental_mastery"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/wriothesley/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Neuvillette",
+      "target_kind": "limited",
+      "role": "charged-attack HP-scaling Hydro DPS",
+      "primary_set": "MarechausseeHunter",
+      "secondary_set": "HeartOfDepth",
+      "main_stats": {
+        "sands": [
+          "hp_pct"
+        ],
+        "goblet": [
+          "hydro_dmg",
+          "hp_pct"
+        ],
+        "circlet": [
+          "crit_dmg",
+          "crit_rate",
+          "hp_pct"
+        ]
+      },
+      "substat_priority": [
+        "crit_dmg",
+        "crit_rate",
+        "hp_pct",
+        "energy_recharge"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/neuvillette/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Furina",
+      "target_kind": "limited",
+      "role": "team buffer / off-field Hydro DPS",
+      "primary_set": "GoldenTroupe",
+      "secondary_set": "TenacityOfTheMillelith",
+      "main_stats": {
+        "sands": [
+          "hp_pct",
+          "energy_recharge"
+        ],
+        "goblet": [
+          "hydro_dmg",
+          "hp_pct"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "energy_recharge",
+        "crit_rate",
+        "crit_dmg",
+        "hp_pct"
+      ],
+      "benchmarks": [
+        {
+          "stat": "hp_flat",
+          "target": 40000,
+          "unit": "flat_total",
+          "condition_ru": "ориентир C0 для верхней границы HP-зависимого бонуса элементального навыка; не заменяет ER",
+          "enforced": false
+        }
+      ],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/furina/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Navia",
+      "target_kind": "limited",
+      "role": "on-field Geo Skill DPS",
+      "primary_set": "NighttimeWhispersInTheEchoingWoods",
+      "secondary_set": "GoldenTroupe",
+      "main_stats": {
+        "sands": [
+          "atk_pct",
+          "energy_recharge"
+        ],
+        "goblet": [
+          "geo_dmg",
+          "atk_pct"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "crit_rate",
+        "crit_dmg",
+        "atk_pct",
+        "energy_recharge"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/navia/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Xianyun",
+      "target_kind": "limited",
+      "role": "Plunging Attack buffer / healer",
+      "primary_set": "ViridescentVenerer",
+      "secondary_set": "NoblesseOblige",
+      "main_stats": {
+        "sands": [
+          "atk_pct",
+          "energy_recharge"
+        ],
+        "goblet": [
+          "atk_pct"
+        ],
+        "circlet": [
+          "atk_pct",
+          "healing_bonus"
+        ]
+      },
+      "substat_priority": [
+        "energy_recharge",
+        "atk_pct",
+        "crit_rate"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [
+        "CRIT Rate нужен в основном с Favonius; ER имеет приоритет, пока не настроена стабильная ротация."
+      ],
+      "source_url": "https://keqingmains.com/xianyun/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Chiori",
+      "target_kind": "limited",
+      "role": "off-field DEF-scaling Geo DPS",
+      "primary_set": "GoldenTroupe",
+      "secondary_set": "HuskOfOpulentDreams",
+      "main_stats": {
+        "sands": [
+          "def_pct",
+          "atk_pct"
+        ],
+        "goblet": [
+          "geo_dmg",
+          "def_pct"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "crit_rate",
+        "crit_dmg",
+        "def_pct",
+        "atk_pct"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/chiori/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Sigewinne",
+      "target_kind": "limited",
+      "role": "HP-scaling healer / off-field support",
+      "primary_set": "SongOfDaysPast",
+      "secondary_set": "OceanHuedClam",
+      "main_stats": {
+        "sands": [
+          "hp_pct",
+          "energy_recharge"
+        ],
+        "goblet": [
+          "hp_pct"
+        ],
+        "circlet": [
+          "healing_bonus",
+          "hp_pct"
+        ]
+      },
+      "substat_priority": [
+        "hp_pct",
+        "energy_recharge",
+        "hp_flat"
+      ],
+      "benchmarks": [
+        {
+          "stat": "hp_flat",
+          "target": 65000,
+          "unit": "flat_total",
+          "condition_ru": "верхняя граница бонуса урона навыков пассивного таланта; не обязательный минимум",
+          "enforced": false
+        }
+      ],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/sigewinne/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Arlecchino",
+      "target_kind": "limited",
+      "role": "on-field Pyro Normal Attack DPS",
+      "primary_set": "FragmentOfHarmonicWhimsy",
+      "secondary_set": "GladiatorsFinale",
+      "main_stats": {
+        "sands": [
+          "atk_pct",
+          "elemental_mastery"
+        ],
+        "goblet": [
+          "pyro_dmg",
+          "atk_pct"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "crit_rate",
+        "crit_dmg",
+        "atk_pct",
+        "elemental_mastery"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/arlecchino/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Clorinde",
+      "target_kind": "limited",
+      "role": "on-field Electro reaction DPS",
+      "primary_set": "FragmentOfHarmonicWhimsy",
+      "secondary_set": "ThunderingFury",
+      "main_stats": {
+        "sands": [
+          "atk_pct",
+          "elemental_mastery"
+        ],
+        "goblet": [
+          "electro_dmg",
+          "atk_pct"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "crit_rate",
+        "crit_dmg",
+        "atk_pct",
+        "elemental_mastery"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/q/clorinde-quickguide/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Emilie",
+      "target_kind": "limited",
+      "role": "off-field Dendro Burning DPS",
+      "primary_set": "UnfinishedReverie",
+      "secondary_set": "DeepwoodMemories",
+      "main_stats": {
+        "sands": [
+          "atk_pct",
+          "energy_recharge"
+        ],
+        "goblet": [
+          "dendro_dmg",
+          "atk_pct"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "crit_rate",
+        "crit_dmg",
+        "atk_pct",
+        "energy_recharge"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/q/emilie-quickguide/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Kinich",
+      "target_kind": "limited",
+      "role": "on-field Dendro Burning DPS",
+      "primary_set": "ObsidianCodex",
+      "secondary_set": "UnfinishedReverie",
+      "main_stats": {
+        "sands": [
+          "atk_pct",
+          "energy_recharge"
+        ],
+        "goblet": [
+          "dendro_dmg",
+          "atk_pct"
+        ],
+        "circlet": [
+          "crit_dmg",
+          "crit_rate"
+        ]
+      },
+      "substat_priority": [
+        "crit_dmg",
+        "crit_rate",
+        "atk_pct",
+        "energy_recharge"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/q/kinich-quickguide/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Mualani",
+      "target_kind": "limited",
+      "role": "on-field Vaporize HP-scaling Hydro DPS",
+      "primary_set": "ObsidianCodex",
+      "secondary_set": "HeartOfDepth",
+      "main_stats": {
+        "sands": [
+          "hp_pct",
+          "elemental_mastery"
+        ],
+        "goblet": [
+          "hydro_dmg",
+          "hp_pct"
+        ],
+        "circlet": [
+          "crit_dmg",
+          "crit_rate"
+        ]
+      },
+      "substat_priority": [
+        "crit_dmg",
+        "crit_rate",
+        "hp_pct",
+        "elemental_mastery"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/q/mualani-quickguide/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Xilonen",
+      "target_kind": "limited",
+      "role": "resistance shred / buffer / healer",
+      "primary_set": "ScrollOfTheHeroOfCinderCity",
+      "secondary_set": "HuskOfOpulentDreams",
+      "main_stats": {
+        "sands": [
+          "def_pct",
+          "energy_recharge"
+        ],
+        "goblet": [
+          "def_pct"
+        ],
+        "circlet": [
+          "healing_bonus",
+          "def_pct",
+          "crit_rate"
+        ]
+      },
+      "substat_priority": [
+        "energy_recharge",
+        "def_pct",
+        "crit_rate"
+      ],
+      "benchmarks": [
+        {
+          "stat": "def_flat",
+          "target": 3200,
+          "unit": "flat_total",
+          "condition_ru": "ориентир зависит от оружия и уровня талантов; не жёсткое требование профиля",
+          "enforced": false
+        }
+      ],
+      "caveats_ru": [
+        "CRIT Rate нужен с Favonius; ER проверяется по конкретной ротации."
+      ],
+      "source_url": "https://keqingmains.com/q/xilonen-quickguide/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Chasca",
+      "target_kind": "limited",
+      "role": "on-field multi-element charged-shot DPS",
+      "primary_set": "ObsidianCodex",
+      "secondary_set": "MarechausseeHunter",
+      "main_stats": {
+        "sands": [
+          "atk_pct"
+        ],
+        "goblet": [
+          "atk_pct",
+          "anemo_dmg"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "crit_rate",
+        "crit_dmg",
+        "atk_pct",
+        "elemental_mastery",
+        "energy_recharge"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [
+        "ATK% Goblet — стабильный общий вариант; конкретный DMG% зависит от состава PHEC-команды."
+      ],
+      "source_url": "https://keqingmains.com/q/chasca-quickguide/",
+      "source_label": "KQM character guide",
+      "source_version": "5.8",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Mavuika",
+      "target_kind": "limited",
+      "role": "on-field Pyro DPS / off-field support",
+      "primary_set": "ObsidianCodex",
+      "secondary_set": "ScrollOfTheHeroOfCinderCity",
+      "main_stats": {
+        "sands": [
+          "atk_pct",
+          "elemental_mastery"
+        ],
+        "goblet": [
+          "pyro_dmg",
+          "atk_pct"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "crit_rate",
+        "crit_dmg",
+        "elemental_mastery",
+        "atk_pct"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/mavuika/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Citlali",
+      "target_kind": "limited",
+      "role": "Cryo shield / Melt support",
+      "primary_set": "ScrollOfTheHeroOfCinderCity",
+      "secondary_set": "TenacityOfTheMillelith",
+      "main_stats": {
+        "sands": [
+          "elemental_mastery",
+          "energy_recharge"
+        ],
+        "goblet": [
+          "elemental_mastery"
+        ],
+        "circlet": [
+          "elemental_mastery",
+          "crit_rate"
+        ]
+      },
+      "substat_priority": [
+        "energy_recharge",
+        "elemental_mastery",
+        "crit_rate"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [
+        "CRIT Rate нужен с Favonius; ER зависит от частоты Burst."
+      ],
+      "source_url": "https://keqingmains.com/q/citlali-quickguide/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Varesa",
+      "target_kind": "limited",
+      "role": "on-field Electro Plunging Attack DPS",
+      "primary_set": "LongNightsOath",
+      "secondary_set": "ObsidianCodex",
+      "main_stats": {
+        "sands": [
+          "atk_pct"
+        ],
+        "goblet": [
+          "electro_dmg",
+          "atk_pct"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "energy_recharge",
+        "crit_rate",
+        "crit_dmg",
+        "atk_pct",
+        "elemental_mastery"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [
+        "Long Night's Oath даёт больший потолок, Obsidian Codex обычно выгоднее по смоле; ER зависит от числа коротких Burst."
+      ],
+      "source_url": "https://keqingmains.com/q/varesa-quickguide/",
+      "source_label": "KQM character guide",
+      "source_version": "5.5",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Escoffier",
+      "target_kind": "limited",
+      "role": "off-field Cryo DPS / healer / RES shred",
+      "primary_set": "GoldenTroupe",
+      "secondary_set": "BlizzardStrayer",
+      "main_stats": {
+        "sands": [
+          "atk_pct",
+          "energy_recharge"
+        ],
+        "goblet": [
+          "cryo_dmg",
+          "atk_pct"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "energy_recharge",
+        "crit_rate",
+        "crit_dmg",
+        "atk_pct"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [
+        "Burst и ER можно пропустить, если лечение не требуется."
+      ],
+      "source_url": "https://keqingmains.com/q/escoffier-quickguide/",
+      "source_label": "KQM character guide",
+      "source_version": "Luna I",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Skirk",
+      "target_kind": "limited",
+      "role": "on-field or quickswap Cryo DPS",
+      "primary_set": "FinaleOfTheDeepGalleries",
+      "secondary_set": "MarechausseeHunter",
+      "main_stats": {
+        "sands": [
+          "atk_pct"
+        ],
+        "goblet": [
+          "cryo_dmg",
+          "atk_pct"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg",
+          "atk_pct"
+        ]
+      },
+      "substat_priority": [
+        "crit_rate",
+        "crit_dmg",
+        "atk_pct",
+        "atk_flat"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [
+        "Finale — универсальный вариант; Marechaussee лучше для чистого on-field режима с Фуриной. ER не является полезным статом для её особого Burst."
+      ],
+      "source_url": "https://keqingmains.com/q/skirk-quickguide/",
+      "source_label": "KQM character guide",
+      "source_version": "5.7",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Ineffa",
+      "target_kind": "limited",
+      "role": "off-field Lunar-Charged DPS / shield support",
+      "primary_set": "AubadeOfMorningstarAndMoon",
+      "secondary_set": "ADayCarvedFromRisingWinds",
+      "main_stats": {
+        "sands": [
+          "atk_pct",
+          "elemental_mastery",
+          "energy_recharge"
+        ],
+        "goblet": [
+          "atk_pct",
+          "elemental_mastery"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "energy_recharge",
+        "crit_rate",
+        "crit_dmg",
+        "atk_pct",
+        "elemental_mastery"
+      ],
+      "benchmarks": [
+        {
+          "stat": "atk_flat",
+          "target": 2000,
+          "unit": "flat_total",
+          "condition_ru": "верхняя граница Moonsign-бонуса базового урона",
+          "enforced": false
+        }
+      ],
+      "caveats_ru": [
+        "ER нужен только если Burst используется каждый цикл; при высоких требованиях допустим Burst через цикл."
+      ],
+      "source_url": "https://keqingmains.com/q/ineffa-quickguide/",
+      "source_label": "KQM character guide",
+      "source_version": "current 7.0",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Lauma",
+      "target_kind": "limited",
+      "role": "Lunar-Bloom Dendro support / off-field enabler",
+      "primary_set": "SilkenMoonsSerenade",
+      "secondary_set": "DeepwoodMemories",
+      "main_stats": {
+        "sands": [
+          "elemental_mastery",
+          "energy_recharge"
+        ],
+        "goblet": [
+          "elemental_mastery"
+        ],
+        "circlet": [
+          "elemental_mastery",
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "energy_recharge",
+        "elemental_mastery",
+        "crit_rate",
+        "crit_dmg"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/q/lauma-quickguide/",
+      "source_label": "KQM character guide",
+      "source_version": "current 7.0",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Flins",
+      "target_kind": "limited",
+      "role": "on-field Lunar-Charged Electro DPS",
+      "primary_set": "NightOfTheSkysUnveiling",
+      "secondary_set": "MarechausseeHunter",
+      "main_stats": {
+        "sands": [
+          "atk_pct",
+          "elemental_mastery"
+        ],
+        "goblet": [
+          "atk_pct",
+          "elemental_mastery"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "energy_recharge",
+        "crit_rate",
+        "crit_dmg",
+        "atk_pct",
+        "elemental_mastery",
+        "atk_flat"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [
+        "Electro DMG Goblet не включён: текущий KQM-гайд предпочитает ATK% или EM для Lunar-Charged профиля."
+      ],
+      "source_url": "https://keqingmains.com/q/flins-quickguide/",
+      "source_label": "KQM character guide",
+      "source_version": "current 7.0",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Nefer",
+      "target_kind": "limited",
+      "role": "on-field Lunar-Bloom Dendro DPS",
+      "primary_set": "NightOfTheSkysUnveiling",
+      "secondary_set": "GildedDreams",
+      "main_stats": {
+        "sands": [
+          "elemental_mastery"
+        ],
+        "goblet": [
+          "elemental_mastery"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg",
+          "elemental_mastery"
+        ]
+      },
+      "substat_priority": [
+        "energy_recharge",
+        "crit_rate",
+        "crit_dmg",
+        "elemental_mastery"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/q/nefer-quickguide/",
+      "source_label": "KQM character guide",
+      "source_version": "current 7.0",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Durin",
+      "target_kind": "limited",
+      "role": "off-field Pyro DPS / team support",
+      "primary_set": "CelestialGift",
+      "secondary_set": "NoblesseOblige",
+      "main_stats": {
+        "sands": [
+          "atk_pct",
+          "elemental_mastery",
+          "energy_recharge"
+        ],
+        "goblet": [
+          "pyro_dmg",
+          "atk_pct"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "energy_recharge",
+        "crit_rate",
+        "crit_dmg",
+        "atk_pct",
+        "elemental_mastery",
+        "atk_flat"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [
+        "Профиль выбирает поддержку через Celestial Gift; личный DPS может предпочесть A Day Carved From Rising Winds."
+      ],
+      "source_url": "https://keqingmains.com/q/durin-quickguide/",
+      "source_label": "KQM character guide",
+      "source_version": "current 7.0",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Columbina",
+      "target_kind": "limited",
+      "role": "Hydro lunar-reaction support / off-field DPS",
+      "primary_set": "SilkenMoonsSerenade",
+      "secondary_set": "AubadeOfMorningstarAndMoon",
+      "main_stats": {
+        "sands": [
+          "energy_recharge",
+          "hp_pct"
+        ],
+        "goblet": [
+          "hp_pct"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg",
+          "hp_pct"
+        ]
+      },
+      "substat_priority": [
+        "energy_recharge",
+        "crit_rate",
+        "crit_dmg",
+        "hp_pct",
+        "elemental_mastery",
+        "hp_flat"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [
+        "Не использовать безусловную triple-HP сборку: гайд требует баланс HP и CRIT."
+      ],
+      "source_url": "https://keqingmains.com/q/columbina-quickguide/",
+      "source_label": "KQM character guide",
+      "source_version": "current 7.0",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Zibai",
+      "target_kind": "limited",
+      "role": "on-field Lunar-Crystallize DEF-scaling Geo DPS",
+      "primary_set": "NightOfTheSkysUnveiling",
+      "secondary_set": "HuskOfOpulentDreams",
+      "main_stats": {
+        "sands": [
+          "def_pct"
+        ],
+        "goblet": [
+          "def_pct"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "crit_rate",
+        "crit_dmg",
+        "def_pct",
+        "elemental_mastery",
+        "energy_recharge"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/q/zibai-quickguide/",
+      "source_label": "KQM character guide",
+      "source_version": "current 7.0",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Varka",
+      "target_kind": "limited",
+      "role": "on-field Anemo / PHEC infused carry",
+      "primary_set": "ADayCarvedFromRisingWinds",
+      "secondary_set": "MarechausseeHunter",
+      "main_stats": {
+        "sands": [
+          "atk_pct"
+        ],
+        "goblet": [
+          "atk_pct",
+          "anemo_dmg",
+          "pyro_dmg",
+          "hydro_dmg",
+          "electro_dmg",
+          "cryo_dmg"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "crit_rate",
+        "crit_dmg",
+        "atk_pct",
+        "elemental_mastery"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [
+        "Goblet зависит от поглощённого PHEC-элемента и команды; ER обычно не строится без отдельного расчёта."
+      ],
+      "source_url": "https://keqingmains.com/q/varka-quickguide/",
+      "source_label": "KQM character guide",
+      "source_version": "current 7.0",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Lohen",
+      "target_kind": "limited",
+      "role": "on-field Cryo DPS / Melt enabler",
+      "primary_set": "ADayCarvedFromRisingWinds",
+      "secondary_set": "ShimenawasReminiscence",
+      "main_stats": {
+        "sands": [
+          "atk_pct",
+          "elemental_mastery"
+        ],
+        "goblet": [
+          "cryo_dmg",
+          "atk_pct"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "energy_recharge",
+        "crit_rate",
+        "crit_dmg",
+        "atk_pct",
+        "elemental_mastery"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [
+        "Взрыв стихии часто не требует отдельной инвестиции в восстановление энергии; точное значение зависит от выбранной ротации."
+      ],
+      "source_url": "https://keqingmains.com/q/lohen-quickguide/",
+      "source_label": "KQM character guide",
+      "source_version": "current 7.0",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Linnea",
+      "target_kind": "limited",
+      "role": "DEF-scaling Lunar-Crystallize support / healer",
+      "primary_set": "HuskOfOpulentDreams",
+      "secondary_set": "AubadeOfMorningstarAndMoon",
+      "main_stats": {
+        "sands": [
+          "def_pct"
+        ],
+        "goblet": [
+          "def_pct"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg",
+          "def_pct"
+        ]
+      },
+      "substat_priority": [
+        "energy_recharge",
+        "crit_rate",
+        "crit_dmg",
+        "def_pct",
+        "elemental_mastery"
+      ],
+      "benchmarks": [
+        {
+          "stat": "def_flat",
+          "target": 2000,
+          "unit": "flat_total",
+          "condition_ru": "минимальный ориентир KQM для ключевого DEF-масштабирования",
+          "enforced": false
+        }
+      ],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/q/linnea-quickguide/",
+      "source_label": "KQM character guide",
+      "source_version": "current 7.0",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Odette",
+      "target_kind": "limited",
+      "role": "off-field Cryo Stellar support",
+      "primary_set": "HeartOfTheFurnace",
+      "secondary_set": "DisenchantmentInDeepShadow",
+      "main_stats": {
+        "sands": [
+          "atk_pct"
+        ],
+        "goblet": [
+          "atk_pct"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "crit_rate",
+        "crit_dmg",
+        "atk_pct",
+        "elemental_mastery"
+      ],
+      "benchmarks": [
+        {
+          "stat": "atk_flat",
+          "target": 3000,
+          "unit": "flat_total",
+          "condition_ru": "верхняя граница одного из ATK-зависимых пассивных бонусов; 2000 ATK закрывает базовый реакционный бонус",
+          "enforced": false
+        }
+      ],
+      "caveats_ru": [
+        "Burst часто пропускается, поэтому ER не добавлен как безусловный приоритет."
+      ],
+      "source_url": "https://keqingmains.com/q/odette-quickguide/",
+      "source_label": "KQM character guide",
+      "source_version": "7.0",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Xiangling",
+      "target_kind": "starter",
+      "role": "off-field Pyro Burst DPS",
+      "primary_set": "EmblemOfSeveredFate",
+      "secondary_set": "CrimsonWitchOfFlames",
+      "main_stats": {
+        "sands": [
+          "energy_recharge",
+          "atk_pct",
+          "elemental_mastery"
+        ],
+        "goblet": [
+          "pyro_dmg",
+          "atk_pct"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "energy_recharge",
+        "crit_rate",
+        "crit_dmg",
+        "elemental_mastery",
+        "atk_pct"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/xiangling/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Noelle",
+      "target_kind": "starter",
+      "role": "DEF-scaling Geo carry / sustain",
+      "primary_set": "HuskOfOpulentDreams",
+      "secondary_set": "RetracingBolide",
+      "main_stats": {
+        "sands": [
+          "def_pct"
+        ],
+        "goblet": [
+          "geo_dmg",
+          "def_pct"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "crit_rate",
+        "crit_dmg",
+        "def_pct",
+        "energy_recharge"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/noelle/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Kaeya",
+      "target_kind": "starter",
+      "role": "on-field / off-field Cryo DPS",
+      "primary_set": "BlizzardStrayer",
+      "secondary_set": "NoblesseOblige",
+      "main_stats": {
+        "sands": [
+          "atk_pct",
+          "energy_recharge"
+        ],
+        "goblet": [
+          "cryo_dmg",
+          "atk_pct"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "crit_rate",
+        "crit_dmg",
+        "atk_pct",
+        "energy_recharge"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/kaeya/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    },
+    {
+      "key": "Lisa",
+      "target_kind": "starter",
+      "role": "Electro reaction DPS / DEF shred support",
+      "primary_set": "ThunderingFury",
+      "secondary_set": "GildedDreams",
+      "main_stats": {
+        "sands": [
+          "atk_pct",
+          "elemental_mastery",
+          "energy_recharge"
+        ],
+        "goblet": [
+          "electro_dmg"
+        ],
+        "circlet": [
+          "crit_rate",
+          "crit_dmg"
+        ]
+      },
+      "substat_priority": [
+        "crit_rate",
+        "crit_dmg",
+        "elemental_mastery",
+        "energy_recharge",
+        "atk_pct"
+      ],
+      "benchmarks": [],
+      "caveats_ru": [],
+      "source_url": "https://keqingmains.com/lisa/",
+      "source_label": "KQM character guide",
+      "source_version": "current as observed",
+      "observed_at": "2026-09-10"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.coverage
+.pytest_cache/
+dist/
+!frontend/dist/
+!frontend/dist/**
+build/
+*.egg-info/
+runs/
+artiscan-e2e-result/
+.DS_Store
+frontend/node_modules/
+frontend/*.tsbuildinfo
+frontend/vite.config.d.ts

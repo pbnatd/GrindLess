@@ -1,0 +1,102 @@
+{
+  "format": "GOOD",
+  "version": 1,
+  "source": "GrindLessExample",
+  "characters": [
+    {
+      "key": "Xiangling",
+      "level": 90,
+      "constellation": 4,
+      "ascension": 6,
+      "talent": {"auto": 6, "skill": 9, "burst": 12}
+    }
+  ],
+  "weapons": [],
+  "artifacts": [
+    {
+      "setKey": "EmblemOfSeveredFate",
+      "slotKey": "flower",
+      "level": 20,
+      "rarity": 5,
+      "mainStatKey": "hp",
+      "location": "Xiangling",
+      "lock": true,
+      "substats": [
+        {"key": "critRate_", "value": 7.0},
+        {"key": "critDMG_", "value": 14.0},
+        {"key": "enerRech_", "value": 10.4}
+      ]
+    },
+    {
+      "setKey": "EmblemOfSeveredFate",
+      "slotKey": "plume",
+      "level": 20,
+      "rarity": 5,
+      "mainStatKey": "atk",
+      "location": "Xiangling",
+      "lock": true,
+      "substats": [
+        {"key": "critRate_", "value": 3.1},
+        {"key": "critDMG_", "value": 12.4},
+        {"key": "enerRech_", "value": 11.0}
+      ]
+    },
+    {
+      "setKey": "EmblemOfSeveredFate",
+      "slotKey": "sands",
+      "level": 20,
+      "rarity": 5,
+      "mainStatKey": "enerRech_",
+      "location": "Xiangling",
+      "lock": true,
+      "substats": [
+        {"key": "critRate_", "value": 6.2},
+        {"key": "critDMG_", "value": 13.2},
+        {"key": "atk_", "value": 5.8}
+      ]
+    },
+    {
+      "setKey": "EmblemOfSeveredFate",
+      "slotKey": "goblet",
+      "level": 20,
+      "rarity": 5,
+      "mainStatKey": "pyro_dmg_",
+      "location": "Xiangling",
+      "lock": true,
+      "substats": [
+        {"key": "critRate_", "value": 6.6},
+        {"key": "critDMG_", "value": 12.4},
+        {"key": "enerRech_", "value": 5.2}
+      ]
+    },
+    {
+      "setKey": "EmblemOfSeveredFate",
+      "slotKey": "circlet",
+      "level": 20,
+      "rarity": 5,
+      "mainStatKey": "critRate_",
+      "location": "Xiangling",
+      "lock": true,
+      "substats": [
+        {"key": "critDMG_", "value": 13.2},
+        {"key": "enerRech_", "value": 5.8},
+        {"key": "atk_", "value": 4.7}
+      ]
+    },
+    {
+      "setKey": "EmblemOfSeveredFate",
+      "slotKey": "plume",
+      "level": 0,
+      "rarity": 5,
+      "mainStatKey": "atk",
+      "location": "",
+      "lock": false,
+      "substats": [
+        {"key": "critRate_", "value": 3.1},
+        {"key": "critDMG_", "value": 6.2},
+        {"key": "enerRech_", "value": 5.2},
+        {"key": "atk_", "value": 4.1}
+      ]
+    }
+  ]
+}

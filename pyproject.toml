@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "grindless-agent"
+version = "0.35.0"
+description = "A simulator-first artifact farming agent for Genshin Impact"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = ["pydantic>=2.7,<3"]
+
+[project.optional-dependencies]
+api = ["openai>=2,<3"]
+browser = ["playwright>=1.55,<2", "psutil>=6,<8"]
+game = ["Pillow>=11,<13"]
+app = ["fastapi>=0.116,<1", "uvicorn>=0.35,<1", "openai>=2,<3", "python-multipart>=0.0.20,<1"]
+test = ["httpx>=0.28,<1", "Pillow>=11,<13"]
+
+[project.scripts]
+grindless = "grindless.cli:main"
+grindless-good = "grindless.good_cli:main"
+grindless-good-compare = "grindless.good_compare:main"
+grindless-platform = "grindless.platform_cli:main"
+grindless-linux-game = "grindless.linux_game_cli:main"
+grindless-app = "grindless.web_app:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+grindless = ["data/*.json"]

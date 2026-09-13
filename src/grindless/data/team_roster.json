@@ -1,0 +1,1054 @@
+{
+  "schema_version": 1,
+  "game_version": "7.0",
+  "retrieved_at": "2026-09-10",
+  "source_url": "https://github.com/EnkaNetwork/API-docs/blob/master/store/gi/avatars.json",
+  "characters": [
+    {
+      "key": "KamisatoAyaka",
+      "name_en": "Kamisato Ayaka",
+      "name_ru": "Аяка",
+      "avatar_id": 10000002,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Cryo"
+    },
+    {
+      "key": "Jean",
+      "name_en": "Jean",
+      "name_ru": "Джинн",
+      "avatar_id": 10000003,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Anemo"
+    },
+    {
+      "key": "Traveler",
+      "name_en": "Traveler",
+      "name_ru": "Путешественник / Путешественница",
+      "avatar_id": 10000005,
+      "alternate_avatar_ids": [
+        10000007
+      ],
+      "rarity": 5,
+      "element": "Variable"
+    },
+    {
+      "key": "Lisa",
+      "name_en": "Lisa",
+      "name_ru": "Лиза",
+      "avatar_id": 10000006,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Electro"
+    },
+    {
+      "key": "Barbara",
+      "name_en": "Barbara",
+      "name_ru": "Барбара",
+      "avatar_id": 10000014,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Hydro"
+    },
+    {
+      "key": "Kaeya",
+      "name_en": "Kaeya",
+      "name_ru": "Кэйа",
+      "avatar_id": 10000015,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Cryo"
+    },
+    {
+      "key": "Diluc",
+      "name_en": "Diluc",
+      "name_ru": "Дилюк",
+      "avatar_id": 10000016,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Pyro"
+    },
+    {
+      "key": "Razor",
+      "name_en": "Razor",
+      "name_ru": "Рэйзор",
+      "avatar_id": 10000020,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Electro"
+    },
+    {
+      "key": "Amber",
+      "name_en": "Amber",
+      "name_ru": "Эмбер",
+      "avatar_id": 10000021,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Pyro"
+    },
+    {
+      "key": "Venti",
+      "name_en": "Venti",
+      "name_ru": "Венти",
+      "avatar_id": 10000022,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Anemo"
+    },
+    {
+      "key": "Xiangling",
+      "name_en": "Xiangling",
+      "name_ru": "Сян Лин",
+      "avatar_id": 10000023,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Pyro"
+    },
+    {
+      "key": "Beidou",
+      "name_en": "Beidou",
+      "name_ru": "Бэй Доу",
+      "avatar_id": 10000024,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Electro"
+    },
+    {
+      "key": "Xingqiu",
+      "name_en": "Xingqiu",
+      "name_ru": "Син Цю",
+      "avatar_id": 10000025,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Hydro"
+    },
+    {
+      "key": "Xiao",
+      "name_en": "Xiao",
+      "name_ru": "Сяо",
+      "avatar_id": 10000026,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Anemo"
+    },
+    {
+      "key": "Ningguang",
+      "name_en": "Ningguang",
+      "name_ru": "Нин Гуан",
+      "avatar_id": 10000027,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Geo"
+    },
+    {
+      "key": "Klee",
+      "name_en": "Klee",
+      "name_ru": "Кли",
+      "avatar_id": 10000029,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Pyro"
+    },
+    {
+      "key": "Zhongli",
+      "name_en": "Zhongli",
+      "name_ru": "Чжун Ли",
+      "avatar_id": 10000030,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Geo"
+    },
+    {
+      "key": "Fischl",
+      "name_en": "Fischl",
+      "name_ru": "Фишль",
+      "avatar_id": 10000031,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Electro"
+    },
+    {
+      "key": "Bennett",
+      "name_en": "Bennett",
+      "name_ru": "Беннет",
+      "avatar_id": 10000032,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Pyro"
+    },
+    {
+      "key": "Tartaglia",
+      "name_en": "Tartaglia",
+      "name_ru": "Тарталья",
+      "avatar_id": 10000033,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Hydro"
+    },
+    {
+      "key": "Noelle",
+      "name_en": "Noelle",
+      "name_ru": "Ноэлль",
+      "avatar_id": 10000034,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Geo"
+    },
+    {
+      "key": "Qiqi",
+      "name_en": "Qiqi",
+      "name_ru": "Ци Ци",
+      "avatar_id": 10000035,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Cryo"
+    },
+    {
+      "key": "Chongyun",
+      "name_en": "Chongyun",
+      "name_ru": "Чун Юнь",
+      "avatar_id": 10000036,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Cryo"
+    },
+    {
+      "key": "Ganyu",
+      "name_en": "Ganyu",
+      "name_ru": "Гань Юй",
+      "avatar_id": 10000037,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Cryo"
+    },
+    {
+      "key": "Albedo",
+      "name_en": "Albedo",
+      "name_ru": "Альбедо",
+      "avatar_id": 10000038,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Geo"
+    },
+    {
+      "key": "Diona",
+      "name_en": "Diona",
+      "name_ru": "Диона",
+      "avatar_id": 10000039,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Cryo"
+    },
+    {
+      "key": "Mona",
+      "name_en": "Mona",
+      "name_ru": "Мона",
+      "avatar_id": 10000041,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Hydro"
+    },
+    {
+      "key": "Keqing",
+      "name_en": "Keqing",
+      "name_ru": "Кэ Цин",
+      "avatar_id": 10000042,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Electro"
+    },
+    {
+      "key": "Sucrose",
+      "name_en": "Sucrose",
+      "name_ru": "Сахароза",
+      "avatar_id": 10000043,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Anemo"
+    },
+    {
+      "key": "Xinyan",
+      "name_en": "Xinyan",
+      "name_ru": "Синь Янь",
+      "avatar_id": 10000044,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Pyro"
+    },
+    {
+      "key": "Rosaria",
+      "name_en": "Rosaria",
+      "name_ru": "Розария",
+      "avatar_id": 10000045,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Cryo"
+    },
+    {
+      "key": "HuTao",
+      "name_en": "Hu Tao",
+      "name_ru": "Ху Тао",
+      "avatar_id": 10000046,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Pyro"
+    },
+    {
+      "key": "Kazuha",
+      "name_en": "Kaedehara Kazuha",
+      "name_ru": "Кадзуха",
+      "avatar_id": 10000047,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Anemo"
+    },
+    {
+      "key": "Yanfei",
+      "name_en": "Yanfei",
+      "name_ru": "Янь Фэй",
+      "avatar_id": 10000048,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Pyro"
+    },
+    {
+      "key": "Yoimiya",
+      "name_en": "Yoimiya",
+      "name_ru": "Ёимия",
+      "avatar_id": 10000049,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Pyro"
+    },
+    {
+      "key": "Thoma",
+      "name_en": "Thoma",
+      "name_ru": "Тома",
+      "avatar_id": 10000050,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Pyro"
+    },
+    {
+      "key": "Eula",
+      "name_en": "Eula",
+      "name_ru": "Эола",
+      "avatar_id": 10000051,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Cryo"
+    },
+    {
+      "key": "RaidenShogun",
+      "name_en": "Raiden Shogun",
+      "name_ru": "Райдэн",
+      "avatar_id": 10000052,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Electro"
+    },
+    {
+      "key": "Sayu",
+      "name_en": "Sayu",
+      "name_ru": "Саю",
+      "avatar_id": 10000053,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Anemo"
+    },
+    {
+      "key": "SangonomiyaKokomi",
+      "name_en": "Sangonomiya Kokomi",
+      "name_ru": "Кокоми",
+      "avatar_id": 10000054,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Hydro"
+    },
+    {
+      "key": "Gorou",
+      "name_en": "Gorou",
+      "name_ru": "Горо",
+      "avatar_id": 10000055,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Geo"
+    },
+    {
+      "key": "KujouSara",
+      "name_en": "Kujou Sara",
+      "name_ru": "Сара",
+      "avatar_id": 10000056,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Electro"
+    },
+    {
+      "key": "AratakiItto",
+      "name_en": "Arataki Itto",
+      "name_ru": "Итто",
+      "avatar_id": 10000057,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Geo"
+    },
+    {
+      "key": "YaeMiko",
+      "name_en": "Yae Miko",
+      "name_ru": "Яэ Мико",
+      "avatar_id": 10000058,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Electro"
+    },
+    {
+      "key": "ShikanoinHeizou",
+      "name_en": "Shikanoin Heizou",
+      "name_ru": "Хэйдзо",
+      "avatar_id": 10000059,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Anemo"
+    },
+    {
+      "key": "Yelan",
+      "name_en": "Yelan",
+      "name_ru": "Е Лань",
+      "avatar_id": 10000060,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Hydro"
+    },
+    {
+      "key": "Kirara",
+      "name_en": "Kirara",
+      "name_ru": "Кирара",
+      "avatar_id": 10000061,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Dendro"
+    },
+    {
+      "key": "Aloy",
+      "name_en": "Aloy",
+      "name_ru": "Элой",
+      "avatar_id": 10000062,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Cryo"
+    },
+    {
+      "key": "Shenhe",
+      "name_en": "Shenhe",
+      "name_ru": "Шэнь Хэ",
+      "avatar_id": 10000063,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Cryo"
+    },
+    {
+      "key": "YunJin",
+      "name_en": "Yun Jin",
+      "name_ru": "Юнь Цзинь",
+      "avatar_id": 10000064,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Geo"
+    },
+    {
+      "key": "KukiShinobu",
+      "name_en": "Kuki Shinobu",
+      "name_ru": "Синобу",
+      "avatar_id": 10000065,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Electro"
+    },
+    {
+      "key": "KamisatoAyato",
+      "name_en": "Kamisato Ayato",
+      "name_ru": "Аято",
+      "avatar_id": 10000066,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Hydro"
+    },
+    {
+      "key": "Collei",
+      "name_en": "Collei",
+      "name_ru": "Коллеи",
+      "avatar_id": 10000067,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Dendro"
+    },
+    {
+      "key": "Dori",
+      "name_en": "Dori",
+      "name_ru": "Дори",
+      "avatar_id": 10000068,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Electro"
+    },
+    {
+      "key": "Tighnari",
+      "name_en": "Tighnari",
+      "name_ru": "Тигнари",
+      "avatar_id": 10000069,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Dendro"
+    },
+    {
+      "key": "Nilou",
+      "name_en": "Nilou",
+      "name_ru": "Нилу",
+      "avatar_id": 10000070,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Hydro"
+    },
+    {
+      "key": "Cyno",
+      "name_en": "Cyno",
+      "name_ru": "Сайно",
+      "avatar_id": 10000071,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Electro"
+    },
+    {
+      "key": "Candace",
+      "name_en": "Candace",
+      "name_ru": "Кандакия",
+      "avatar_id": 10000072,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Hydro"
+    },
+    {
+      "key": "Nahida",
+      "name_en": "Nahida",
+      "name_ru": "Нахида",
+      "avatar_id": 10000073,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Dendro"
+    },
+    {
+      "key": "Layla",
+      "name_en": "Layla",
+      "name_ru": "Лайла",
+      "avatar_id": 10000074,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Cryo"
+    },
+    {
+      "key": "Wanderer",
+      "name_en": "Wanderer",
+      "name_ru": "Странник",
+      "avatar_id": 10000075,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Anemo"
+    },
+    {
+      "key": "Faruzan",
+      "name_en": "Faruzan",
+      "name_ru": "Фарузан",
+      "avatar_id": 10000076,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Anemo"
+    },
+    {
+      "key": "Yaoyao",
+      "name_en": "Yaoyao",
+      "name_ru": "Яо Яо",
+      "avatar_id": 10000077,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Dendro"
+    },
+    {
+      "key": "Alhaitham",
+      "name_en": "Alhaitham",
+      "name_ru": "Аль-Хайтам",
+      "avatar_id": 10000078,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Dendro"
+    },
+    {
+      "key": "Dehya",
+      "name_en": "Dehya",
+      "name_ru": "Дэхья",
+      "avatar_id": 10000079,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Pyro"
+    },
+    {
+      "key": "Mika",
+      "name_en": "Mika",
+      "name_ru": "Мика",
+      "avatar_id": 10000080,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Cryo"
+    },
+    {
+      "key": "Kaveh",
+      "name_en": "Kaveh",
+      "name_ru": "Кавех",
+      "avatar_id": 10000081,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Dendro"
+    },
+    {
+      "key": "Baizhu",
+      "name_en": "Baizhu",
+      "name_ru": "Бай Чжу",
+      "avatar_id": 10000082,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Dendro"
+    },
+    {
+      "key": "Lynette",
+      "name_en": "Lynette",
+      "name_ru": "Линетт",
+      "avatar_id": 10000083,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Anemo"
+    },
+    {
+      "key": "Lyney",
+      "name_en": "Lyney",
+      "name_ru": "Лини",
+      "avatar_id": 10000084,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Pyro"
+    },
+    {
+      "key": "Freminet",
+      "name_en": "Freminet",
+      "name_ru": "Фремине",
+      "avatar_id": 10000085,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Cryo"
+    },
+    {
+      "key": "Wriothesley",
+      "name_en": "Wriothesley",
+      "name_ru": "Ризли",
+      "avatar_id": 10000086,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Cryo"
+    },
+    {
+      "key": "Neuvillette",
+      "name_en": "Neuvillette",
+      "name_ru": "Нёвиллет",
+      "avatar_id": 10000087,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Hydro"
+    },
+    {
+      "key": "Charlotte",
+      "name_en": "Charlotte",
+      "name_ru": "Шарлотта",
+      "avatar_id": 10000088,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Cryo"
+    },
+    {
+      "key": "Furina",
+      "name_en": "Furina",
+      "name_ru": "Фурина",
+      "avatar_id": 10000089,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Hydro"
+    },
+    {
+      "key": "Chevreuse",
+      "name_en": "Chevreuse",
+      "name_ru": "Шеврёз",
+      "avatar_id": 10000090,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Pyro"
+    },
+    {
+      "key": "Navia",
+      "name_en": "Navia",
+      "name_ru": "Навия",
+      "avatar_id": 10000091,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Geo"
+    },
+    {
+      "key": "Gaming",
+      "name_en": "Gaming",
+      "name_ru": "Ка Мин",
+      "avatar_id": 10000092,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Pyro"
+    },
+    {
+      "key": "Xianyun",
+      "name_en": "Xianyun",
+      "name_ru": "Сянь Юнь",
+      "avatar_id": 10000093,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Anemo"
+    },
+    {
+      "key": "Chiori",
+      "name_en": "Chiori",
+      "name_ru": "Тиори",
+      "avatar_id": 10000094,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Geo"
+    },
+    {
+      "key": "Sigewinne",
+      "name_en": "Sigewinne",
+      "name_ru": "Сиджвин",
+      "avatar_id": 10000095,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Hydro"
+    },
+    {
+      "key": "Arlecchino",
+      "name_en": "Arlecchino",
+      "name_ru": "Арлекино",
+      "avatar_id": 10000096,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Pyro"
+    },
+    {
+      "key": "Sethos",
+      "name_en": "Sethos",
+      "name_ru": "Сетос",
+      "avatar_id": 10000097,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Electro"
+    },
+    {
+      "key": "Clorinde",
+      "name_en": "Clorinde",
+      "name_ru": "Клоринда",
+      "avatar_id": 10000098,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Electro"
+    },
+    {
+      "key": "Emilie",
+      "name_en": "Emilie",
+      "name_ru": "Эмилия",
+      "avatar_id": 10000099,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Dendro"
+    },
+    {
+      "key": "Kachina",
+      "name_en": "Kachina",
+      "name_ru": "Качина",
+      "avatar_id": 10000100,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Geo"
+    },
+    {
+      "key": "Kinich",
+      "name_en": "Kinich",
+      "name_ru": "Кинич",
+      "avatar_id": 10000101,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Dendro"
+    },
+    {
+      "key": "Mualani",
+      "name_en": "Mualani",
+      "name_ru": "Муалани",
+      "avatar_id": 10000102,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Hydro"
+    },
+    {
+      "key": "Xilonen",
+      "name_en": "Xilonen",
+      "name_ru": "Шилонен",
+      "avatar_id": 10000103,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Geo"
+    },
+    {
+      "key": "Chasca",
+      "name_en": "Chasca",
+      "name_ru": "Часка",
+      "avatar_id": 10000104,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Anemo"
+    },
+    {
+      "key": "Ororon",
+      "name_en": "Ororon",
+      "name_ru": "Оророн",
+      "avatar_id": 10000105,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Electro"
+    },
+    {
+      "key": "Mavuika",
+      "name_en": "Mavuika",
+      "name_ru": "Мавуика",
+      "avatar_id": 10000106,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Pyro"
+    },
+    {
+      "key": "Citlali",
+      "name_en": "Citlali",
+      "name_ru": "Ситлали",
+      "avatar_id": 10000107,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Cryo"
+    },
+    {
+      "key": "LanYan",
+      "name_en": "Lan Yan",
+      "name_ru": "Лань Янь",
+      "avatar_id": 10000108,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Anemo"
+    },
+    {
+      "key": "YumemizukiMizuki",
+      "name_en": "Yumemizuki Mizuki",
+      "name_ru": "Мидзуки",
+      "avatar_id": 10000109,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Anemo"
+    },
+    {
+      "key": "Iansan",
+      "name_en": "Iansan",
+      "name_ru": "Иансан",
+      "avatar_id": 10000110,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Electro"
+    },
+    {
+      "key": "Varesa",
+      "name_en": "Varesa",
+      "name_ru": "Вареса",
+      "avatar_id": 10000111,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Electro"
+    },
+    {
+      "key": "Escoffier",
+      "name_en": "Escoffier",
+      "name_ru": "Эскофье",
+      "avatar_id": 10000112,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Cryo"
+    },
+    {
+      "key": "Ifa",
+      "name_en": "Ifa",
+      "name_ru": "Ифа",
+      "avatar_id": 10000113,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Anemo"
+    },
+    {
+      "key": "Skirk",
+      "name_en": "Skirk",
+      "name_ru": "Скирк",
+      "avatar_id": 10000114,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Cryo"
+    },
+    {
+      "key": "Dahlia",
+      "name_en": "Dahlia",
+      "name_ru": "Далия",
+      "avatar_id": 10000115,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Hydro"
+    },
+    {
+      "key": "Ineffa",
+      "name_en": "Ineffa",
+      "name_ru": "Инеффа",
+      "avatar_id": 10000116,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Electro"
+    },
+    {
+      "key": "Lauma",
+      "name_en": "Lauma",
+      "name_ru": "Лаума",
+      "avatar_id": 10000119,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Dendro"
+    },
+    {
+      "key": "Flins",
+      "name_en": "Flins",
+      "name_ru": "Флинс",
+      "avatar_id": 10000120,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Electro"
+    },
+    {
+      "key": "Aino",
+      "name_en": "Aino",
+      "name_ru": "Айно",
+      "avatar_id": 10000121,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Hydro"
+    },
+    {
+      "key": "Nefer",
+      "name_en": "Nefer",
+      "name_ru": "Нефер",
+      "avatar_id": 10000122,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Dendro"
+    },
+    {
+      "key": "Durin",
+      "name_en": "Durin",
+      "name_ru": "Дурин",
+      "avatar_id": 10000123,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Pyro"
+    },
+    {
+      "key": "Jahoda",
+      "name_en": "Jahoda",
+      "name_ru": "Ягода",
+      "avatar_id": 10000124,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Anemo"
+    },
+    {
+      "key": "Columbina",
+      "name_en": "Columbina",
+      "name_ru": "Коломбина",
+      "avatar_id": 10000125,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Hydro"
+    },
+    {
+      "key": "Zibai",
+      "name_en": "Zibai",
+      "name_ru": "Цзы Бай",
+      "avatar_id": 10000126,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Geo"
+    },
+    {
+      "key": "Illuga",
+      "name_en": "Illuga",
+      "name_ru": "Иллуги",
+      "avatar_id": 10000127,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Geo"
+    },
+    {
+      "key": "Varka",
+      "name_en": "Varka",
+      "name_ru": "Варка",
+      "avatar_id": 10000128,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Anemo"
+    },
+    {
+      "key": "Lohen",
+      "name_en": "Lohen",
+      "name_ru": "Лоэн",
+      "avatar_id": 10000129,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Cryo"
+    },
+    {
+      "key": "Linnea",
+      "name_en": "Linnea",
+      "name_ru": "Линнея",
+      "avatar_id": 10000130,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Geo"
+    },
+    {
+      "key": "Alyosha",
+      "name_en": "Alyosha",
+      "name_ru": "Алёша",
+      "avatar_id": 10000148,
+      "alternate_avatar_ids": [],
+      "rarity": 4,
+      "element": "Electro"
+    },
+    {
+      "key": "Odette",
+      "name_en": "Odette",
+      "name_ru": "Одетта",
+      "avatar_id": 10000150,
+      "alternate_avatar_ids": [],
+      "rarity": 5,
+      "element": "Cryo"
+    }
+  ]
+}
